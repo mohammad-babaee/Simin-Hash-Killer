@@ -6,6 +6,9 @@ Kill Hashes As Fast As Possible 💀
 # Разработчик: Мохамад Бабаеи 
 # Developer : Mohammad Babaee
 
+
+<img width="1398" height="574" alt="Simin-Hash-Kill" src="https://github.com/user-attachments/assets/12b48dd2-83a6-477f-9bca-0d4a9b5b0bce" />
+
 ##  About the Project
 
 **Hash Kill** is a blazing-fast ⚡ Ruby 3.4.6 CLI tool built for one mission:  
