@@ -1,6 +1,6 @@
 # Simin-Hash-Killer
 Simin Hash Killer , A Powerfull CLI Tool for Make Hashes ...
-Kill Hashes As Fat As Possible 💀
+Kill Hashes As Fast As Possible 💀
 
 # SIMIN Hash Kill / Симин Хаш Кил 🔐
 
