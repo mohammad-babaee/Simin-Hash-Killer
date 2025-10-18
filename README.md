@@ -3,7 +3,8 @@ Simin Hash Killer , A Powerfull CLI Tool for Make Hashes ...
 Kill Hashes As Fast As Possible 💀
 
 # SIMIN Hash Kill / Симин Хаш Кил 🔐
-# Разработчик: Мохамад Бабаеи | Developer : Mohammad Babaee
+# Разработчик: Мохамад Бабаеи 
+# Developer : Mohammad Babaee
 
 ##  About the Project
 
